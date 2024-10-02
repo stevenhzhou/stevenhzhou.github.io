@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![stevenhzhou](https://img.shields.io/badge/stevenhzhou-github-blue?logo=github)](https://github.com/stevenhzhou)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+现就读于武汉大学动力工程及工程热物理专业
 
 #### Email
-sli[at]cumt.edu.cn
+2022202080042@whu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+硕士，武汉大学，动力与机械学院，动力工程及工程热物理专业, 2022—2025 (expected).\
+本科，郑州大学，机械与动力工程学院, 能源与动力工程专业，2018—2022.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+智慧能源，水泵，锅炉，制冷
